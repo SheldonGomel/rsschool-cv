@@ -30,4 +30,4 @@ Engineer researcher in the field of technical sciences, Elements and devices of 
 Bachelor of Engineering - BE, Industrial electronics. Microelectronic and microprocessor control and information devices.
 ### LANGUAGES
 - Russian (Native)
-- English (A2)
+- English (A1)
